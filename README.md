@@ -1,4 +1,3 @@
 # Hasil 
-![Screenshot (5732)](https://github.com/ThoriqFatih/Tugas_1_PWeb_G/assets/129358222/a049ee0a-1b99-4084-b428-ff2a3dda894e)
-
-![Screenshot (5733)](https://github.com/ThoriqFatih/Tugas_1_PWeb_G/assets/129358222/d38048c1-cb1a-4817-8661-268d50cd08a3)
+![Screenshot (5734)](https://github.com/ThoriqFatih/Tugas_1_PWeb_G/assets/129358222/d5706b0b-60a7-4105-b2a5-d0280a6eebec)
+![Screenshot (5735)](https://github.com/ThoriqFatih/Tugas_1_PWeb_G/assets/129358222/d38a924b-ace2-4fe5-a7df-8413f2ac32ce)
